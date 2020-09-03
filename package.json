@@ -14,7 +14,8 @@
     "react-scripts": "3.4.2",
     "react-table": "^6.x.x",
     "styled-components": "^5.1.1",
-    "ag-grid-community": "latest"
+    "ag-grid-community": "latest",
+    "ag-grid-react": "latest"
   },
   "scripts": {
     "start": "set PORT=8000 && react-scripts start",
