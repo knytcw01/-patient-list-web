@@ -33,6 +33,11 @@ class Links extends Component {
                                 Create Patient
                             </Link>
                         </Item>
+                        <Item>
+                            <Link to="/patients/realTimeGrid" className="nav-link">
+                                Real Time Grid
+                            </Link>
+                        </Item>
                     </List>
                 </Collapse>
             </React.Fragment>
